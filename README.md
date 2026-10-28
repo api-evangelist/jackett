@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Jackett is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://github.com/Jackett/Jackett
+Jackett provides a proxy server that translates queries from various torrent clients into a unified API, allowing users to search and retrieve torrent tracker results across many sources. It supports a wide range of trackers, offers configuration options, and can be self‑hosted via Docker or native installations on Windows, Linux, and macOS. The project is open‑source and maintained on GitHub, with active community contributions and documentation covering installation, usage, and API endpoints.
+
+**Areas:** Company · OpenSource · Torrent · Proxy · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.linuxserver.io/)
+- [Documentation](https://github.com/Jackett/Jackett/wiki)
+- [Getting started](https://docs.linuxserver.io/selkies/user-guide/quickstart/)
+- [Support](https://github.com/Jackett/Jackett/issues)
+- [Blog](https://www.linuxserver.io/blog)
+- [GitHub](https://github.com/linuxserver)
+- [Status](https://status.linuxserver.io/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/jackett/](https://apis.io/providers/jackett/).
